@@ -10,7 +10,7 @@ namespace OOP1
         public int CategoryId { get; set; } //hangi kategoriye ait olduğu
         public string ProductName { get; set; } //ürünün ismi
         public double UnitPrice { get; set; } // ürün birim fiyatı
-        public int UnitsInStock { get; set; } //stok adedi
+        public int UnitsInStock { get; set; } // stok adedi
 
 
     }
